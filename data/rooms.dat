@@ -1,0 +1,21 @@
+Room Name: Visiting room
+Room Description:  This is where you visit people 
+Exit Rooms: E-Hall
+Room Name: Hall
+Room Description:  This is the main prison hall
+Exit Rooms: W-Visiting room, U-Cell, D-Abandoned quarter
+Room Name: Abandoned quarter
+Room Description:  Spiders are the least of your concerns in this room.
+Exit Rooms: U-Hall
+Room Name: Cell
+Room Description:  You are in your cell. It's cold here...
+Exit Rooms: D-Hall, E-Vents
+Room Name: Vents
+Room Description:  Vents are a good way to get places you're not supposed to be in...
+Exit Rooms: W-Cell, D-Cafeteria
+Room Name: Cafeteria
+Room Description:  Who doesn't like food?
+Exit Rooms: E-Security  room, U-Vents
+Room Name: Security room
+Room Description:  Act like you belong. Fake it till you make it.
+Exit Rooms: W-Cafeteria
